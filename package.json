@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/RazzanIkmalSaputra/192_ChatBot/issues"
   },
-  "homepage": "https://github.com/RazzanIkmalSaputra/192_ChatBot#readme"
+  "homepage": "https://github.com/RazzanIkmalSaputra/192_ChatBot#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14",
+    "pg": "^8.23.1",
+    "sequelize-cli": "^6.6.5"
+  }
 }
