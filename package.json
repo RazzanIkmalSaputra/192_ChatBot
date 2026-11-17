@@ -1,0 +1,21 @@
+{
+  "name": "perte10pws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazzanIkmalSaputra/192_ChatBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RazzanIkmalSaputra/192_ChatBot/issues"
+  },
+  "homepage": "https://github.com/RazzanIkmalSaputra/192_ChatBot#readme"
+}
